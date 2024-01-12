@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @t0my1z. I´m studying game design in U-tad, and I´ve been working with unity for 3 years.
-- 👀 I’m interested in game development and programming game mechanics.
-- 🌱 I’m currently learning programming in general, focusing on character controllers and other systems like shops, quests, etc.
-- 💞️ I’m looking to collaborate on an action single player game that needs a programmer and mechanics designer.
-- 📫 How to reach me : Email me at str3ng1@gmail.com
+- 👋 Hi, I’m @t0my1z. I´m finishing a videogame programming master's degree, and I´ve been working with unity for 4 years and have recently moved to Unreal and C++.
+- 🌱 I’m continuosly learning more about game programming and development in general, amd my aim is to improve my skills every day.
+- 📫 How to reach me : Email me at tomas.rodrigo.work@gmail.com
 
 <!---
 t0my1z/t0my1z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
