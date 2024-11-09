@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @t0my1z. I´m finishing a videogame programming master's degree, and I´ve been working with unity for 4 years and have recently moved to Unreal and C++.
+- 👋 Hi, I’m @t0my1z. I just finished a videogame programming master. I´ve been learning C++, Unreal, C#, and Unity, for the last 4 years.
 - 🌱 I’m continuosly learning more about game programming and development in general, amd my aim is to improve my skills every day.
-- 📫 How to reach me : Email me at tomas.rodrigo.work@gmail.com
+- 📫 How to reach me :
+- Email: tomas.rodrigo.work@gmail.com
+- Youtube: Tomas Rodrigo GameDev
 
 <!---
 t0my1z/t0my1z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
